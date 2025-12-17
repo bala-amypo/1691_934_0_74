@@ -18,3 +18,5 @@ public class SwaggerConfig {
                 ));
         }
 }
+
+https://9042.408procr.amypo.ai/
