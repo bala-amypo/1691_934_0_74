@@ -37,5 +37,11 @@ return dob:
 public void setDob (LocalDate dob) {
 this dob =dob;
 }
+public float getCgpa() {
+return cgpa;
+}
+public void setcgpa(float cgpa) {
+this.cgpa =cgpa;
+}
 
 }
